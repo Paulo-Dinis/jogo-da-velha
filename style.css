@@ -1,0 +1,143 @@
+body{
+    text-align: center;
+}
+h1{
+    display: inline-block;
+    text-align: center;
+}
+img#playx{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 20px;
+    text-align: center;
+}
+img#playo{
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 20px;
+    text-align: center;
+}
+
+img#win{
+    padding: 5px 0px 0px 0px;
+    margin: 0px 0px 0px 15px;
+    text-align: center;
+}
+
+img#reset{
+    margin: auto;
+    text-align: center;
+    padding-top: 30px;
+}
+
+img#endgamehorizon{
+    margin: -40px -1px 0px -75px;
+}
+
+img#endgamehorizon2{
+    margin: -40px -1px 0px -75px;
+}
+
+
+img#endgamehorizon3{
+    margin: -40px -1px 0px -75px;
+    
+}
+
+img#endgamevert{
+    margin: -263px 42px 29px 45px;
+}
+
+img#endgamevert2{
+    margin: -263px 42px 29px 45px;
+}
+
+img#endgamevert3{
+    margin: -263px 42px 29px 45px;
+}
+
+img#endgamediag{
+    padding: 0px;
+    margin: -124px 2px 30px -47px;
+}
+
+img#endgamediag2{
+    padding: 0px;
+    margin: -124px 2px 30px -47px;
+}
+
+
+img#sel{
+    display: block;
+    margin: 3px 3px 3px 3px;
+    padding: 0px;
+}
+div{
+    
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: solid 1px black;
+}
+
+div#casa1{
+    display: inline-block;
+    border-top: white;
+    border-left: white;
+    margin-top: 50px;
+    margin-top: 0px;
+}
+
+
+div#casa2{
+    display: inline-block;
+    border-top: white;
+    margin-top: 50px;
+    margin-top: 0px;
+}
+
+div#casa3{
+    display: inline-block;
+    border-top: white;
+    border-right: white;
+    margin-top: 50px;
+    margin-top: 0px;
+}
+
+
+div#casa4{
+    display: inline-block;
+    border-left: white;
+}
+
+
+div#casa5{
+    display: inline-block;
+}
+
+div#casa6{
+    display: inline-block;
+    border-right: white;
+}
+
+
+div#casa7{
+    display: inline-block;
+    border-left: white;
+    border-bottom: white;
+}
+
+div#casa8{
+    display: inline-block;
+    border-bottom: white;
+}
+
+div#casa9{
+    display: inline-block;
+    border-right: white;
+    border-bottom: white;
+}
+img {
+    display: none;
+    margin: 35px 20px 20px 35px;
+    padding: 0px;
+    text-align: center;
+}
